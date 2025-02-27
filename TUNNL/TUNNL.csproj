@@ -11,4 +11,8 @@
     <PackageReference Include="SFML-GE" Version="0.70.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="NewFolder\" />
+  </ItemGroup>
+
 </Project>
